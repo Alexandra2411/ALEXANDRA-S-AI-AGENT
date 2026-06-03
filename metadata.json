@@ -1,0 +1,10 @@
+{
+  "name": "Alexandra AI Voice Agent",
+  "description": "An interactive AI-powered voice agent that dynamically answers questions about Alexandra Filali's CV in English and French.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
